@@ -2,7 +2,7 @@ package com.example.tustart.service;
 
 
 import com.example.tustart.dto.CustomerDTO;
-import com.example.tustart.entity.Customer;
+import com.example.tustart.model.Customer;
 
 import java.util.List;
 

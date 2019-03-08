@@ -1,7 +1,7 @@
 package com.example.tustart.service.impl;
 
 import com.example.tustart.dto.CustomerDTO;
-import com.example.tustart.entity.Customer;
+import com.example.tustart.model.Customer;
 import com.example.tustart.repository.CustomerRepository;
 import com.example.tustart.service.CustomerService;
 import org.modelmapper.ModelMapper;

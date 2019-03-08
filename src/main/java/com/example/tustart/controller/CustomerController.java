@@ -1,7 +1,7 @@
 package com.example.tustart.controller;
 
 import com.example.tustart.dto.CustomerDTO;
-import com.example.tustart.entity.Customer;
+import com.example.tustart.model.Customer;
 import com.example.tustart.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

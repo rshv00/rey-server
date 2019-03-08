@@ -1,6 +1,6 @@
 package com.example.tustart.repository;
 
-import com.example.tustart.entity.Customer;
+import com.example.tustart.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
